@@ -1,42 +1,29 @@
 <div align="center">
 
-# Привет, я Fullstack разработчик! 👋
+# ⚡ Fullstack Developer & Bot Maker
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Building+the+Future&fontSize=40&animation=fadeIn)
 
----
-
-### 📖 Немного обо мне
-Привет! Я фуллстек-разработчик, который живет в мире кода, автоматизации и дизайна. 
-Моя страсть — превращать идеи в работающие продукты. В основном я специализируюсь на создании масштабируемых Discord и Telegram ботов, а также разрабатываю современные веб-сайты. 
-
-**Чем я занимаюсь:**
-*    **Backend:** Python (FastAPI/aiogram), Node.js (Discord.js).
-*    **Frontend:** React, HTML/CSS, современные JS фреймворки.
-*    **Bots:** Создаю сложных ботов с интеграцией баз данных и API.
-*    **Идея:** Верю, что хороший код — это искусство, которое должно быть не только быстрым, но и понятным.
+### 👨‍💻 Обо мне
+Пишу код, который работает. Занимаюсь разработкой ботов для Discord и Telegram, а также создаю веб-интерфейсы. Не просто пишу скрипты, а проектирую стабильные решения. Люблю автоматизацию и чистый код, который не падает под нагрузкой.
 
 ---
 
-### 📬 Связаться со мной
-Если у тебя есть крутой проект или просто хочешь пообщаться, жду тебя здесь:
+### 📬 Контакты
+*Жми на иконки, чтобы связаться со мной:*
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/868668772179906620)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eescped)
 
 ---
 
-###  Статистика & Инструменты
+<img src="изображение.png" width="200" alt="Avatar">
 
-<p align="center">
-  <img src="изображение.jpg" width="300" alt="Персональное фото" style="border-radius: 50%;">
-</p>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikodik&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠 Мой стек
+![Tech](https://skillicons.dev/icons?i=python,nodejs,js,react,discord,telegram,git,linux,mongodb,postgres)
 
 ---
 
-###  Мой основной стек
-![Tech](https://skillicons.dev/icons?i=python,nodejs,js,react,discord,telegram,git,linux)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikodik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
