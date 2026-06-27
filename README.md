@@ -1,7 +1,5 @@
 <div align="center">
 
-# Привет, я Fullstack разработчик! 👋
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn)
 
 ---
