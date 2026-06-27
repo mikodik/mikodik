@@ -6,23 +6,37 @@
 
 ---
 
-### 🛠 Обо мне
-Я увлечен созданием ботов для Discord/Telegram и веб-приложений. 
-Люблю писать чистый код на **Python** и **Node.js**.
+### 📖 Немного обо мне
+Привет! Я фуллстек-разработчик, который живет в мире кода, автоматизации и дизайна. 
+Моя страсть — превращать идеи в работающие продукты. В основном я специализируюсь на создании масштабируемых Discord и Telegram ботов, а также разрабатываю современные веб-сайты. 
 
-<br>
-
-### 💻 Стек технологий
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-<br>
-
-### 📈 Моя статистика
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikodik&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+**Чем я занимаюсь:**
+*    **Backend:** Python (FastAPI/aiogram), Node.js (Discord.js).
+*    **Frontend:** React, HTML/CSS, современные JS фреймворки.
+*    **Bots:** Создаю сложных ботов с интеграцией баз данных и API.
+*    **Идея:** Верю, что хороший код — это искусство, которое должно быть не только быстрым, но и понятным.
 
 ---
+
+### 📬 Связаться со мной
+Если у тебя есть крутой проект или просто хочешь пообщаться, жду тебя здесь:
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/868668772179906620)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eescped)
+
+---
+
+###  Статистика & Инструменты
+
+<p align="center">
+  <img src="изображение.jpg" width="300" alt="Персональное фото" style="border-radius: 50%;">
+</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikodik&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+###  Мой основной стек
+![Tech](https://skillicons.dev/icons?i=python,nodejs,js,react,discord,telegram,git,linux)
 
 </div>
